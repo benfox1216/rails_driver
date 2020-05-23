@@ -1,11 +1,6 @@
 # Rails Driver
 
-This application is part of the [Rails Engine](https://backend.turing.io/module3/projects/rails_engine) project for the Turing School of Software and Design.
-
-It includes
-
-1. A Test Suite for Rails Engine
-1. A Front End for Rails Engine
+This application is part of the [Rails Engine](https://github.com/benfox1216/rails_engine) project for Turing School of Software & Design, and is my personal copy of the repo. The code herein is not my work, but is the test suite and front end for the [Rails Engine](https://github.com/benfox1216/rails_engine) greenfield project.
 
 ## Set Up
 
